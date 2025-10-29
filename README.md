@@ -11,7 +11,7 @@ By the end of the project, learners will understand the importance of semantic e
 🎯 Learning Objectives
 
 Master Semantic HTML:
-Learn to structure web pages using semantic elements such as <header>, <main>, <article>, <section>, and <footer> for better content organization and accessibility.
+Learn to structure web pages using semantic elements such as <code>&lt;header&gt;</code>, <code>&lt;main&gt;</code>, <code>&lt;article&gt;</code>, <code>&lt;section&gt;</code> and <code>&lt;footer&gt;</code> for better content organization and accessibility.
 
 Optimize for SEO:
 Understand how to improve webpage visibility through appropriate use of meta tags and proper document structure.
