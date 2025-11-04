@@ -1,6 +1,6 @@
 # alx-intermediate-frontend
 
-🧱 Htructuring HTML documents using semantic elements.
+🧱 Structuring HTML Documents Using Semantic Elements.
 
 About the Project
 
